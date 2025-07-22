@@ -28,7 +28,7 @@ webhook_url = '机器人地址'
 message = {
 "msgtype": "markdown",
 "markdown": {
-"content": f"# <font color=\"warning\">信息中心：</font> \n >需在{weekday}下班后进行刻盘、导入、打印、复印的同事，于下班前到信息中心领取并向@吕利芬或@孙阳提交<font color=\"info\">《信息中心使用申请单》</font>，以便安排。\n <font color=\"comment\">节假日请忽略本消息</font>"
+"content": f"# <font color=\"warning\">信息中心：</font> \n >需在{weekday}下班后进行刻盘、导入、打印、复印的同事，于下班前到信息中心领取并向@提交<font color=\"info\">《信息中心使用申请单》</font>，以便安排。\n <font color=\"comment\">节假日请忽略本消息</font>"
 }
 }
 
