@@ -3,6 +3,7 @@
 
 ## 操作步骤
 ### 第一步：添加群机器人
+```
 : 打开企业微信 PC 端或网页版。
 : 进入你想发送通知的群聊。
 : 点击右上角【群设置】。
@@ -15,3 +16,4 @@
 >编辑
 >https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
 : 复制此链接，保存备用。
+```
