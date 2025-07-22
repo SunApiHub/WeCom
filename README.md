@@ -14,7 +14,7 @@
 `https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx`
 8. 复制此链接，保存备用。
 
-### 第二步：设置定时任务
+### 第二步：设置定时任务(MAC)
 1. 打开终端，运行：
 `crontab -e`
 2. 添加以下行（表示每周一到周五 17:00 执行脚本）：
