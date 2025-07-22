@@ -24,14 +24,14 @@
 ### 第三步：安装 requests 模块
 1. 打开 终端
 2.运行以下命令（确保是你实际使用的 Python 版本）：
-`python3 -m ensurepip --upgrade`
-`python3 -m pip install requests`
+- `python3 -m ensurepip --upgrade`
+- `python3 -m pip install requests`
 
 ### 第三步：编辑 crontab 模块 （注意切换英文）
-`crontab -l` 查看当前任务列表
-`crontab -e` 打开编辑列表
-`i` 开始编辑
-先按esc再`:wq`退出编辑
-`:q!`强制退出不保存
+- `crontab -l` 查看当前任务列表
+- `crontab -e` 打开编辑列表
+- `i` 开始编辑
+- 先按esc再`:wq`退出编辑
+- `:q!`强制退出不保存
 
 
