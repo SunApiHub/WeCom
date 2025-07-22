@@ -18,7 +18,7 @@
 1. 打开终端，运行：
 `crontab -e`
 2. 添加以下行（表示每周一到周五 17:00 执行脚本）：
-`0 17 * * 1-5 /usr/bin/python3 /Users/你用户名/路径/wechat_notify.py`可以直接拖动文件到终端显示路径，注意**/python3 **后面有一个空格
+`0 17 * * 1-5 /usr/bin/python3 /Users/你用户名/路径/wechat_notify.py`可以直接拖动文件到终端显示路径，注意python3 后面有一个空格
 > 使用 which python3 查看你 Python 的路径
 
 ### 第三步：安装 requests 模块
