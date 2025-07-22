@@ -34,4 +34,3 @@ message = {
 
 # 发送消息
 response = requests.post(webhook_url, headers={'Content-Type': 'application/json'}, data=json.dumps(message))
-未选择文件
